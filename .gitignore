@@ -1,0 +1,24 @@
+# SA:MP server related files
+*.dll
+*.exe
+*.amx
+*.RDP
+server_log.txt
+server.cfg
+start.bat
+crashinfo.txt
+
+# Sublime stuff
+*.sublime-workspace
+
+# stuff no one else needs
+*.lnk
+misc/*.jpg
+build-config.json
+private/
+
+# Python stuff
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
